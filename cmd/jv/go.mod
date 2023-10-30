@@ -1,4 +1,4 @@
-module github.com/santhosh-tekuri/jsonschema/cmd/jv
+module github.com/ecerro-aragon/jsonschema/cmd/jv
 
 go 1.15
 
