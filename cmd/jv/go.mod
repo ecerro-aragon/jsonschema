@@ -1,4 +1,4 @@
-module github.com/ecerro-aragon/jsonschema/cmd/jv
+module gitlab.edgecastcdn.net/edgecast/customer-config-management/libraries/jsonschema/v6/cmd/jv
 
 go 1.15
 

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ecerro-aragon/jsonschema/v5"
+	"gitlab.edgecastcdn.net/edgecast/customer-config-management/libraries/jsonschema/v6"
 )
 
 func TestPowerOfExt(t *testing.T) {

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/ecerro-aragon/jsonschema/v5/msg"
+	"gitlab.edgecastcdn.net/edgecast/customer-config-management/libraries/jsonschema/v6/msg"
 )
 
 // A Schema represents compiled version of json-schema.

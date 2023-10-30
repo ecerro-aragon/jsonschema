@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ecerro-aragon/jsonschema/v5/msg"
+	"gitlab.edgecastcdn.net/edgecast/customer-config-management/libraries/jsonschema/v6/msg"
 )
 
 // InvalidJSONTypeError is the error type returned by ValidateInterface.

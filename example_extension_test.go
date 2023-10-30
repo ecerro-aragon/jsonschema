@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ecerro-aragon/jsonschema/v5"
+	"gitlab.edgecastcdn.net/edgecast/customer-config-management/libraries/jsonschema/v6"
 )
 
 var powerOfMeta = jsonschema.MustCompileString("powerOf.json", `{
