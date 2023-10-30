@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/santhosh-tekuri/jsonschema/v5/msg"
+	"github.com/ecerro-aragon/jsonschema/v5/msg"
 )
 
 // A Schema represents compiled version of json-schema.

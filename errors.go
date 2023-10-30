@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/santhosh-tekuri/jsonschema/v5/msg"
+	"github.com/ecerro-aragon/jsonschema/v5/msg"
 )
 
 // InvalidJSONTypeError is the error type returned by ValidateInterface.
